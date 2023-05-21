@@ -1,0 +1,6 @@
+spring :
+  data:
+    mongodb:
+      database:marketplace
+    host : mongodb-mongodb_container-1
+    port: 27017
